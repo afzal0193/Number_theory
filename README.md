@@ -1,3 +1,3 @@
-# my-life-stroy
+#Number-theory
 All number theory contants 
 
