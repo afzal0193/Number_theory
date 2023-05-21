@@ -1,12 +1,3 @@
-/*
-Primality-test Related problems :- 
-1.https://www.codechef.com/problems/PRB01
-2.https://lightoj.com/problem/dimik-is-prime
-3.https://toph.co/p/is-prime
-4.https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-shino-and-prime-difference-38c91b0d/
-
-*/
-
 
 #include<bits/stdc++.h>
 using namespace std;
